@@ -44,28 +44,37 @@ interests:
   - AI/ML
 
 education:
-  - area: Masters in Robotics
-    institution: University of Minnesota
-    date_start: 2023-09-07
-    date_end: ''
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      As a Master's student in Robotics, I conduct research in the [Robotics Perception and Manipualtion Lab](https://rpm-lab.github.io/) under Professor [Karthik Desingh](https://karthikdesingh.com/). My work focuses on developing intelligent robotic systems to enhance perception and manipulation capabilities. Currently, I am working on enabling a dual-arm robot to disassemble unseen objects using a single video demonstration. My research also includes projects on 3D semantic reconstruction, autonomous navigation and manipulation for dual-robot systems, and human-robot interaction with large language models (LLMs).
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: Bachelors in Mechanical Engineering
-    institution: Vellore Institute of Technology
-    date_start: 2019-09-7
-    date_end: 2023-05-20
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 9.27/10
+      GPA: 3.8/4.0
 
       Courses included:
-      - Robotics
-      - Python Programming
-      - Mechanics of Machines
-
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
