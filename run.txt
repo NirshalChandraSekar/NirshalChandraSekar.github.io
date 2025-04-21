@@ -1,0 +1,5 @@
+Command to start the local host:
+
+'''
+bundle exec jekyll serve -l -H localhost
+'''
