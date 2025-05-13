@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Selected Projects"
+title: 
 permalink: /projects/
 author_profile: true
 ---
 
-
+# Research Projects
+---
 
 
 <!-- ## Projects -->
@@ -121,11 +122,54 @@ author_profile: true
         onmouseover="this.style.transform='scale(1.05)'" 
         onmouseout="this.style.transform='scale(1)'" />
 </div>
-<div style="margin-top: 0.75rem;">
+<div style="margin-top: 0.75rem; margin-bottom: 5rem">
     <strong>Movie Recommendation System (GCN)</strong><br/>
     <span></span>
 </div>
 </a>
 
 
+</div>
+
+
+
+# Undergrad Project Gallery
+---
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/laser.jpg" alt="CNC Project" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">2 Axis Laser Engraving Machine</p>
+  </div>
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/3d_printer.jpg" alt="3D Printer" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Custom 3D printer built @ I-Bax</p>
+  </div>
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/yali_robo_war.jpeg" alt="yali robot" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Our Wedge Combot Robot - YALI</p>
+  </div>
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/yali_making.jpg" alt="yali robot making" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Making of YALI</p>
+  </div>
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/winner_robowars.jpeg" alt="winning robo wars" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">I-Bax Won 2018 Robowars @ VIT</p>
+  </div>
+
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/drum_spinner.jpg" alt="drum robot making" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Building our drum spinner Combat Robot</p>
+  </div>
+
+  
+  <!-- Add more blocks below following the same pattern -->
+  
 </div>
