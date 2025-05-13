@@ -138,10 +138,15 @@ author_profile: true
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <img src="/images/undergrad_projects/laser_engraver.jpg" alt="CNC Project" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Built a Laser Engraving Machine</p>
+  </div>
 
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
     <img src="/images/undergrad_projects/laser.jpg" alt="CNC Project" style="width: 100%; border-radius: 8px;">
-    <p style="margin-top: 8px; font-size: 14px;">2 Axis Laser Engraving Machine</p>
+    <p style="margin-top: 8px; font-size: 14px;">Testing my Laser Engraving Machine</p>
   </div>
 
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
