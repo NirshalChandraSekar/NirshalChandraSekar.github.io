@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Research Projects
+# Recent Projects
 ---
 
 
@@ -14,6 +14,23 @@ author_profile: true
 <div style="height: 50px;"></div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
+
+  <a href="https://drive.google.com/file/d/1StKuopjQ5TEeLJWQW3C6oha_5e6aUw5f/view?usp=sharing" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/demonstration.JPG" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Grasp Imitation from Single Video Demo</strong><br/>
+    <span></span>
+</div>
+</a>
 
 
   <a href="https://github.com/mohitydv09/the-real-bartender" target="_blank" 
@@ -137,42 +154,48 @@ author_profile: true
 ---
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 70px; justify-content: center;">
   
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
-    <img src="/images/undergrad_projects/laser_engraver.jpg" alt="CNC Project" style="width: 100%; border-radius: 8px;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
+    <img src="/images/undergrad_projects/laser_engraver.jpg" alt="CNC Project 1" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Built a Laser Engraving Machine</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/laser.jpg" alt="CNC Project" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Testing my Laser Engraving Machine</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/3d_printer.jpg" alt="3D Printer" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Custom 3D printer built @ I-Bax</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/yali_robo_war.jpeg" alt="yali robot" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Our Wedge Combot Robot - YALI</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/yali_making.jpg" alt="yali robot making" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Making of YALI</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/winner_robowars.jpeg" alt="winning robo wars" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">I-Bax Won 2018 Robowars @ VIT</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
     <img src="/images/undergrad_projects/drum_spinner.jpg" alt="drum robot making" style="width: 100%; border-radius: 8px;">
     <p style="margin-top: 8px; font-size: 14px;">Building our drum spinner Combat Robot</p>
   </div>
+
+  <div style="flex: 1 1 250px; max-width: 220px; text-align: center;">
+    <img src="/images/undergrad_projects/soccer.jpg" alt="robot soccer" style="width: 100%; border-radius: 8px;">
+    <p style="margin-top: 8px; font-size: 14px;">Cute Little Soccer Robot</p>
+  </div>
+
 
   
   <!-- Add more blocks below following the same pattern -->

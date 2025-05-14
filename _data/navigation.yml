@@ -14,11 +14,14 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Portfolio"
+  - title: "Experience"
     url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
+
+  - title: "Patents"
+    url: /patents/
 
   - title: "CV"
     url: /files/cv.pdf

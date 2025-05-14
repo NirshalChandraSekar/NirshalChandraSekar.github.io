@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master’s student in Robotics at the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), researching robotic perception and manipulation with [Prof. Karthik Desingh](https://www.karthikdesingh.com) at the [Robotics Perception and Manipulation Lab](https://rpm-lab.github.io/), where we explore how robots can perceive, reason about, and interact with objects in human environments.
+I'm an incoming PhD student in Computer Science and Engineering at the University of Minnesota. I did my master's in Robotics at the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), researching robotic perception and manipulation with [Prof. Karthik Desingh](https://www.karthikdesingh.com) at the [Robotics Perception and Manipulation Lab](https://rpm-lab.github.io/), where we explore how robots can perceive, reason about, and interact with objects in human environments.
 
 During my Bachelor's study in Mechanical Engineering at the Vellore Institute of Technology, I co-founded a independent robotics team “I-bax,” where we worked on projects that bridged hardware with intelligent systems. From building low-cost CNC and 3D printers to developing perception-based control systems and assistive devices, I gained hands-on experience in autonomy and interdisciplinary design through both academic and self-driven initiatives. 
 
