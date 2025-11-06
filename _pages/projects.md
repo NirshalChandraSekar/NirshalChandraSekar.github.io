@@ -198,6 +198,74 @@ Below are some really interesting course projects I did as part of Generative AI
 
 </div>
 
+<br><br>
+
+
+# CSCI 5607: Fundamentals of Computer Graphics Fall 2025
+---
+In Fall 2025, I also took Computer Graphics, where Professor Stephen Guy, made us implement some very hard, but really cool projects which included us building our own raytracer from scratch in CPP!
+<div style="height: 50px;"></div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
+
+
+<a href="https://dent-femur-218.notion.site/csci-5607-project-3b?source=copy_link" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/ray_tracing.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Ray Tracing</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+
+  <a href="https://dent-femur-218.notion.site/csci-5607-project-2" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/image_manipulation.jpg" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Image Manipulation</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+<a href="https://dent-femur-218.notion.site/csci-5607-project-1" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/interactive_2d_geometry.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Interactive 2D Geometry</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+</div>
+
 
 <br><br>
 
