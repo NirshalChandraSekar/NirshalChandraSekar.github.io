@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Recent Projects
+# Research Projects
 ---
 
 
@@ -128,7 +128,7 @@ author_profile: true
 
 
 
-<a href="https://github.com/mohitydv09/movie_recommender_using_LightGCN" target="_blank" 
+<!-- <a href="https://github.com/mohitydv09/movie_recommender_using_LightGCN" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
         onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
@@ -143,12 +143,63 @@ author_profile: true
     <strong>Movie Recommendation System (GCN)</strong><br/>
     <span></span>
 </div>
+</a> -->
+
+</div>
+
+<br><br>
+
+
+# EE8520: Generative AI (Advanced Topics in Signal Processing) Fall 2025
+---
+Below are some really interesting course projects I did as part of Generative AI course at the University of Minnesota.
+
+<div style="height: 50px;"></div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
+
+
+<a href="https://dent-femur-218.notion.site/comparing-gans-ars-and-vaes-for-image-generation-task" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/GAN_vs_AR_vs_VAE.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>GANs vs ARs vs VAEs</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+
+  <a href="https://dent-femur-218.notion.site/comparing-mlp-cnn-and-vit-for-a-image-classification-task" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/MLP_vs_CNN_vs_ViT.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>MLP vs CNN vs ViT</strong><br/>
+    <span></span>
+</div>
 </a>
 
 
 </div>
 
 
+<br><br>
 
 # Undergrad Project Gallery
 ---
