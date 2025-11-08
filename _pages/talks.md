@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Oct 31, 2025 - Lecture:** [Diffusion Models](), *CSCI 5561: Computer Vision (Fall 2025)*, University of Minnesota, Twin Cities, MN
 
 - **Dec 16, 2024 - Project Presentation:** [the-REAL-bartender: Bimanual Manipulation using Diffusion Policies for Bottle Uncorking Task](https://drive.google.com/file/d/1a7Sb2hxlX5KPgSBCbE20b56Gtkzst4N9/view?usp=share_link), *CSCI 5980: Deep Learning for Robot Manipulation (Fall 2024)*, University of Minnesota, Twin Cities, MN
 

@@ -13,7 +13,7 @@ author_profile: true
   <a href="https://rpm-lab.github.io">Robotics Perception and Manipulation Lab</a>
 </h2>
 <p style="margin-top: 0; margin-bottom: 8px;">
-  <em>January 2023 – Present</em>
+  <em>January 2024 – Present</em>
 </p>
 
 <p style="margin-top: 0; margin-bottom: 10px;">
