@@ -159,6 +159,25 @@ Below are some really interesting course projects I did as part of Generative AI
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
 
 
+<a href="https://dent-femur-218.notion.site/ddpm-ddim-cfm" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/ddpm:ddim:cfm.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>DDPM / DDIM / CFM</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+
 <a href="https://dent-femur-218.notion.site/comparing-gans-ars-and-vaes-for-image-generation-task" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
