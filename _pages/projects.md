@@ -15,6 +15,24 @@ author_profile: true
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
 
+  <a href="https://github.com/NirshalChandraSekar/video_diffusion" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/video_diffusion.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Depth Video Diffusion for Robot Policy Learning</strong><br/>
+    <span></span>
+</div>
+</a>
+  
+  
   <a href="https://drive.google.com/file/d/1StKuopjQ5TEeLJWQW3C6oha_5e6aUw5f/view?usp=sharing" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
@@ -159,6 +177,25 @@ Below are some really interesting course projects I did as part of Generative AI
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
 
 
+<a href="https://drive.google.com/file/d/1R6OC7ckl9aOq0aq6dduaZXslttTLWGw0/view?usp=sharing" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/genai_A4.png" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>Conditional Generation</strong><br/>
+    <span></span>
+</div>
+</a>
+
+
+
 <a href="https://dent-femur-218.notion.site/ddpm-ddim-cfm" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
@@ -197,7 +234,7 @@ Below are some really interesting course projects I did as part of Generative AI
 
 
 
-  <a href="https://dent-femur-218.notion.site/comparing-mlp-cnn-and-vit-for-a-image-classification-task" target="_blank" 
+  <!-- <a href="https://dent-femur-218.notion.site/comparing-mlp-cnn-and-vit-for-a-image-classification-task" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
         onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
@@ -212,7 +249,7 @@ Below are some really interesting course projects I did as part of Generative AI
     <strong>MLP vs CNN vs ViT</strong><br/>
     <span></span>
 </div>
-</a>
+</a> -->
 
 
 </div>
@@ -222,10 +259,29 @@ Below are some really interesting course projects I did as part of Generative AI
 
 # CSCI 5607: Fundamentals of Computer Graphics Fall 2025
 ---
-In Fall 2025, I also took Computer Graphics, where Professor Stephen Guy, made us implement some very hard, but really cool projects which included us building our own raytracer from scratch in CPP!
+In Fall 2025, I also took Computer Graphics, where Professor Stephen Guy, made us implement some very hard, but really cool projects which included us building our own raytracer and game engine from scratch in CPP!
 <div style="height: 50px;"></div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5rem;">
+
+
+<a href="https://dent-femur-218.notion.site/real-time-3d-game-programming" target="_blank" 
+     style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
+<div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
+        onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
+        onmouseout="this.style.boxShadow='none'">
+    <img src="/images/project_images/game_programming.webp" 
+        alt="Project Image" 
+        style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" />
+</div>
+<div style="margin-top: 0.75rem;">
+    <strong>3D Game Programming</strong><br/>
+    <span></span>
+</div>
+</a>
+
 
 
 <a href="https://dent-femur-218.notion.site/csci-5607-project-3b?source=copy_link" target="_blank" 
@@ -265,7 +321,7 @@ In Fall 2025, I also took Computer Graphics, where Professor Stephen Guy, made u
 </a>
 
 
-<a href="https://dent-femur-218.notion.site/csci-5607-project-1" target="_blank" 
+<!-- <a href="https://dent-femur-218.notion.site/csci-5607-project-1" target="_blank" 
      style="text-decoration: none; color: inherit; width: 220px; display: inline-block; margin-bottom: 2rem;">
 <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 10px; transition: box-shadow 0.3s ease; filter: brightness(1.20)" 
         onmouseover="this.style.boxShadow='0 6px 20px rgba(0, 0, 0, 1.5)'" 
@@ -280,7 +336,7 @@ In Fall 2025, I also took Computer Graphics, where Professor Stephen Guy, made u
     <strong>Interactive 2D Geometry</strong><br/>
     <span></span>
 </div>
-</a>
+</a> -->
 
 
 </div>
