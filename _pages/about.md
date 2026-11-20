@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in Computer Science and Engineering at the University of Minnesota, advised by [Prof. Karthik Desingh](https://www.karthikdesingh.com), and [Prof. Stephen J. Guy](https://www-users.cse.umn.edu/~sjguy/). I did my master's in Robotics at the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), researching robotic perception and manipulation with Prof. Karthik Desingh at the [Robotics Perception and Manipulation Lab](https://rpm-lab.github.io/), where we explore how robots can perceive, reason about, and interact with objects in human environments.
+I'm a second-year PhD student in Computer Science and Engineering at the University of Minnesota, advised by [Prof. Karthik Desingh](https://www.karthikdesingh.com) and [Prof. Stephen J. Guy](https://www-users.cse.umn.edu/~sjguy/). My research interests are in robotic perception and manipulation, with a focus on robot learning for domestic environments. I have experience with real2sim2real pipelines, synthetic data generation, and deploying learned manipulation policies on physical robots. I'm interested in how learning in simulation can help robots acquire useful skills and operate safely around people.
 
-During my Bachelor's study in Mechanical Engineering at the Vellore Institute of Technology, I co-founded a independent robotics team “I-bax,” where we worked on projects that bridged hardware with intelligent systems. From building low-cost CNC and 3D printers to developing perception-based control systems and assistive devices, I gained hands-on experience in autonomy and interdisciplinary design through both academic and self-driven initiatives. 
+I earned my master's in Robotics at the [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), where I researched robotic perception and manipulation with Prof. Karthik Desingh at the [Robotics Perception and Manipulation Lab](https://rpm-lab.github.io/). During my bachelor's in Mechanical Engineering at the Vellore Institute of Technology, I co-founded an independent robotics team, “I-bax.” Through projects ranging from low-cost CNC machines and 3D printers to perception-based control systems and assistive devices, I gained hands-on experience connecting hardware with intelligent systems.
 
-My research interests lie in robot manipulation, robotic perception, robots in human-centered environments. I’m particularly interested on:
-- **Learning from Human Demonstrations**: Developing methods for robots to generalize and adapt manipulation skills from human demonstrations.
-- **Robotic Perception and Manipulation**: Integrating robotic systems with perception capabilities to enable robots to interact effectively with human environments.
-- **Human-Robot Collaboration**: Creating robots that can collaborate with humans by adapting to feedback and improving their task execution through continuous learning.
+I'm particularly interested in:
 
-Please feel free to reach me at chand861 [at] umn [dot] edu
+- **Embodied AI for Perception and Manipulation**: Connecting 3D spatial understanding with visuomotor policy learning and vision-language-action models for generalizable, contact-rich manipulation.
+- **Simulation-Driven Robot Learning**: Building real2sim2real pipelines with digital twins, synthetic data generation, and domain randomization to scale policy learning and bridge the sim-to-real gap.
+- **Generalist Robots for Everyday Environments**: Exploring transferable manipulation skills and language-conditioned behaviors that enable robots to adapt to novel objects, diverse tasks, and unstructured domestic spaces.
+- **Safe, Human-Aware Autonomy**: Investigating uncertainty-aware decision-making, adaptive robot behaviors, and human-robot interaction for reliable deployment in dynamic, human-centered environments.
+
+Please feel free to reach me at chand861 [at] umn [dot] edu.
